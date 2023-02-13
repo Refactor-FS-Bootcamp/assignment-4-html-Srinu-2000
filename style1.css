@@ -1,0 +1,23 @@
+body{
+    height:100vh;
+    box-sizing: border-box;
+}.container{
+    margin:100px;
+    width:80%;
+    height:100%;
+    background-color:aquamarine;
+}
+.container1{
+    display:flex;
+    flex-direction: column;
+}
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img,button{
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    background-color: chartreuse;
+}
